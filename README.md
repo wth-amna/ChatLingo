@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatLingo
 
 # iChat Web Application
@@ -124,4 +123,4 @@ Contributions are welcome! If you'd like to contribute to iChat, please follow t
 
 This project is licensed under the [MIT License](LICENSE).
 
->>>>>>> 94f4a34 (Initial commit)
+
